@@ -1,0 +1,125 @@
+institution,endowment_billions,annual_change_pct,enrollment,control,state,founded
+Harvard University,50.9,-1.8,23000,Private,MA,1636
+Yale University,40.7,-0.2,14000,Private,CT,1701
+Stanford University,36.3,-4.0,17000,Private,CA,1885
+Princeton University,34.1,-1.8,8500,Private,NJ,1746
+University of Texas at Austin,44.0,10.0,51000,Public,TX,1883
+Massachusetts Institute of Technology,24.6,0.4,11500,Private,MA,1861
+University of Pennsylvania,21.4,1.8,28000,Private,PA,1740
+Texas A&M University,18.0,8.7,74000,Public,TX,1876
+University of Notre Dame,18.8,3.5,13000,Private,IN,1842
+University of Michigan,17.0,5.4,48000,Public,MI,1817
+Washington University in St. Louis,15.9,0.0,16000,Private,MO,1853
+University of Virginia,13.9,10.4,25000,Public,VA,1819
+Columbia University,13.6,2.4,35000,Private,NY,1754
+Northwestern University,13.3,3.2,21000,Private,IL,1851
+Duke University,12.7,4.2,17000,Private,NC,1838
+Johns Hopkins University,10.8,4.3,30000,Private,MD,1876
+University of Chicago,11.6,-3.1,18000,Private,IL,1890
+Vanderbilt University,10.5,5.3,14000,Private,TN,1873
+Carnegie Mellon University,10.5,2.9,15000,Private,PA,1900
+Cornell University,10.0,2.3,25000,Private,NY,1865
+Dartmouth College,8.5,2.9,6800,Private,NH,1769
+Rice University,8.5,2.9,4400,Private,TX,1912
+Emory University,8.4,1.0,15000,Private,GA,1836
+Ohio State University,8.1,4.6,60000,Public,OH,1870
+University of Southern California,8.1,7.1,49000,Private,CA,1880
+University of California Los Angeles,7.1,2.4,46000,Public,CA,1919
+Brown University,7.2,3.9,11000,Private,RI,1764
+New York University,6.0,4.0,60000,Private,NY,1831
+University of California Berkeley,6.0,2.4,45000,Public,CA,1868
+University of North Carolina,5.2,5.0,32000,Public,NC,1789
+Pennsylvania State University,5.0,4.0,90000,Public,PA,1855
+Purdue University,4.9,5.9,51000,Public,IN,1869
+Williams College,4.1,1.0,2200,Private,MA,1793
+University of Wisconsin,4.1,4.0,48000,Public,WI,1848
+University of Minnesota,4.0,3.5,52000,Public,MN,1851
+Amherst College,3.8,0.7,1900,Private,MA,1821
+University of Florida,3.0,5.0,57000,Public,FL,1853
+Boston University,3.0,3.0,37000,Private,MA,1839
+University of Rochester,3.0,3.0,12000,Private,NY,1850
+Georgetown University,2.8,3.5,20000,Private,DC,1789
+Wellesley College,2.8,1.4,2400,Private,MA,1870
+Tufts University,2.7,3.5,13000,Private,MA,1852
+Tulane University,2.3,3.5,14000,Private,LA,1834
+Wake Forest University,2.2,4.0,9000,Private,NC,1834
+Bowdoin College,2.2,2.2,1850,Private,ME,1794
+Case Western Reserve University,2.0,3.0,12000,Private,OH,1826
+University of Georgia,2.3,5.2,40000,Public,GA,1785
+Georgia Institute of Technology,3.0,5.0,45000,Public,GA,1885
+Arizona State University,2.4,5.0,145000,Public,AZ,1885
+University of Oklahoma,1.4,3.0,28000,Public,OK,1890
+Swarthmore College,3.1,2.7,1700,Private,PA,1864
+Pomona College,3.0,2.1,1750,Private,CA,1887
+Grinnell College,3.0,-0.6,1800,Private,IA,1846
+Claremont McKenna College,1.1,2.0,1400,Private,CA,1946
+Carleton College,1.1,2.2,2100,Private,MN,1866
+Davidson College,1.2,4.2,2100,Private,NC,1837
+Smith College,1.1,2.5,4000,Private,MA,1871
+Vassar College,1.2,2.5,2500,Private,NY,1861
+Colgate University,1.4,3.0,3000,Private,NY,1819
+Hamilton College,1.0,3.0,2000,Private,NY,1812
+Middlebury College,1.7,1.9,3500,Private,VT,1800
+Colby College,1.1,3.9,2200,Private,ME,1813
+Brandeis University,1.2,3.5,6000,Private,MA,1948
+Lehigh University,1.7,3.0,7600,Private,PA,1865
+University of Richmond,2.8,3.0,4200,Private,VA,1830
+Baylor University,1.9,4.0,20000,Private,TX,1845
+University of Denver,1.0,3.0,13000,Private,CO,1864
+Bucknell University,0.9,3.0,3700,Private,PA,1846
+Haverford College,0.9,2.5,1400,Private,PA,1833
+Bryn Mawr College,1.0,2.5,2000,Private,PA,1885
+Harvey Mudd College,0.5,2.0,900,Private,CA,1955
+Colorado College,0.8,2.8,2200,Private,CO,1874
+Mount Holyoke College,0.8,2.0,2400,Private,MA,1837
+Bates College,0.5,3.0,2000,Private,ME,1855
+Oklahoma State University,0.7,3.0,25000,Public,OK,1890
+University of Kansas,0.8,3.0,28000,Public,KS,1865
+University of Nebraska,1.2,3.5,27000,Public,NE,1869
+Iowa State University,0.7,3.0,30000,Public,IA,1858
+University of Iowa,1.0,3.0,32000,Public,IA,1847
+Indiana University,0.9,3.5,49000,Public,IN,1820
+University of Illinois,3.0,4.0,56000,Public,IL,1867
+California Institute of Technology,4.32,3.5,2300,Private,CA,1891
+Boston College,4.24,3.5,15000,Private,MA,1863
+Texas Christian University,2.85,4.0,12000,Private,TX,1873
+George Washington University,2.81,3.5,26000,Private,DC,1821
+Rockefeller University,2.61,3.0,200,Private,NY,1901
+Kentucky University,2.48,3.0,30000,Public,KY,1865
+Southern Methodist University,2.34,4.0,12000,Private,TX,1911
+Syracuse University,2.27,3.5,22000,Private,NY,1870
+Washington and Lee University,2.19,3.0,2200,Private,VA,1749
+Saint Louis University,2.02,3.5,14000,Private,MO,1818
+Trinity University,1.94,3.5,2600,Private,TX,1869
+Berea College,1.83,3.0,1600,Private,KY,1855
+University of Miami,1.71,4.0,18000,Private,FL,1925
+Santa Clara University,1.67,3.5,9000,Private,CA,1851
+Wesleyan University,1.64,3.0,3000,Private,CT,1831
+Oberlin College,1.48,2.5,2900,Private,OH,1833
+Villanova University,1.47,3.5,11000,Private,PA,1842
+Rochester Institute of Technology,1.46,3.5,19000,Private,NY,1829
+University of Tulsa,1.34,3.0,4000,Private,OK,1894
+Pepperdine University,1.29,3.5,9500,Private,CA,1937
+College of the Holy Cross,1.21,3.0,3000,Private,MA,1843
+Lafayette College,1.20,3.0,2700,Private,PA,1826
+Loyola University of Chicago,1.18,3.5,17000,Private,IL,1870
+DePaul University,1.15,3.0,21000,Private,IL,1898
+Drexel University,1.13,3.0,24000,Private,PA,1891
+Marquette University,1.13,3.5,12000,Private,WI,1881
+American University,1.12,3.5,14000,Private,DC,1893
+Howard University,1.12,3.0,10000,Private,DC,1867
+Denison University,1.10,2.5,2400,Private,OH,1831
+Fordham University,1.05,3.0,17000,Private,NY,1841
+Rensselaer Polytechnic Institute,1.02,3.0,7500,Private,NY,1824
+Michigan State University,4.61,4.0,50000,Public,MI,1855
+Virginia Tech,2.09,4.5,37000,Public,VA,1872
+University of Utah,2.07,4.0,33000,Public,UT,1850
+University of Delaware,2.06,3.5,24000,Public,DE,1743
+University of Colorado,2.47,4.0,38000,Public,CO,1876
+Kansas University,2.69,3.5,28000,Public,KS,1865
+University of Missouri,2.55,4.0,31000,Public,MO,1839
+North Carolina State University,2.54,4.5,38000,Public,NC,1887
+University of Arkansas,1.81,4.0,28000,Public,AR,1871
+University of Oregon,1.84,4.0,22000,Public,OR,1876
+Texas Tech University,3.07,4.5,40000,Public,TX,1923
+University of California,20.2,3.5,285000,Public,CA,1868
